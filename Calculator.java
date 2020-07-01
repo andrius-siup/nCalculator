@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// The program have to read numbers, words and will do simple operations.
+
 public class Calculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
